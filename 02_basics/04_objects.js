@@ -56,4 +56,4 @@ console.log(Object.keys(tinderUser)); // It is given as array and we can also us
 console.log(Object.values(tinderUser));
 console.log(Object.entries(tinderUser));
 
-console.log(tinderUser.hasOwnProperty('isLoggedIn')); // hasOwnProperty() it tells that that the vlaue or key exist in objector not
+console.log(tinderUser.hasOwnProperty('isLoggedIn')); // hasOwnProperty() it tells that that the vlaue or key exist in object or not
